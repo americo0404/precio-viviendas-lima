@@ -1,0 +1,15 @@
+# Responsable global del repositorio
+* @americo0404
+
+# Código fuente
+/src/ @americo0404
+/scripts/ @americo0404
+
+# Tests
+/tests/ @americo0404
+
+# Documentación
+/docs/ @americo0404
+
+# Workflows y configuración de GitHub
+/.github/ @americo0404
